@@ -1,5 +1,6 @@
 html{
     height: 100vh;
+    margin: 0;
 }
 
 .logo{
@@ -50,3 +51,12 @@ u{
     color: #ffffff;
 }
 
+#pagar{
+    border: 1px solid #cce4fe;
+    background-color: #cce4fe;
+    color: #2372b4;
+}
+
+#pagar::placeholder{
+    color: #2372b4;
+}
